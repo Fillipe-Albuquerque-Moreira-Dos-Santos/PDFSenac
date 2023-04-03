@@ -1,4 +1,4 @@
 # Nomes
--- Fillipe Albuquerque
--- Guilherme Oliveira Peres
--- Gabriel Cardoso 
+- Fillipe Albuquerque
+- Guilherme Oliveira Peres
+- Gabriel Cardoso 
